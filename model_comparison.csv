@@ -1,0 +1,3 @@
+model,validation_macro_f1
+Logistic Regression,0.5607847500370865
+Random Forest,0.5136125136125136
